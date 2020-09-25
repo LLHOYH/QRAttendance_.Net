@@ -1,0 +1,13 @@
+18/06/2020 Update:
+
+Added Login References, Sign out and all master page old defects.
+
+
+24/06/2020 Update:
+Change FYPJ QRCode From using Static QRText to with GUID QRText.
+Changes Import Data From Delete only Non-super staff to truncate whole staff table
+
+
+25/06/2020 Update:
+Added DAL layer try catch error handling, writes errors at which function to ErrorLog.log
+Added comments for next developer.

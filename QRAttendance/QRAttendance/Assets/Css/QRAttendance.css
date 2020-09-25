@@ -1,0 +1,12 @@
+﻿@media (min-width: 992px) {
+    #mainNav.fixed-top .navbar-sidenav {
+        height: calc(100vh - 55px) !important;
+        overflow-y: auto !important;
+    }
+}
+
+.nav-text {
+    color: rgba(255,255,255,.5) !important;
+    display: block !important;
+    padding: .5rem 1rem !important;
+}

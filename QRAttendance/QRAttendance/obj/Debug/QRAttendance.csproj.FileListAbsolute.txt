@@ -1,0 +1,412 @@
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\obj\Debug\QRAttendance.csprojAssemblyReference.cache
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\obj\Debug\QRAttendance.csproj.CoreCompileInputs.cache
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\QRAttendance.dll.config
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\QRAttendance.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\QRAttendance.pdb
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\csc.exe
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\csc.exe.config
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\csc.rsp
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\csi.exe
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\csi.exe.config
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\csi.rsp
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\System.AppContext.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\System.Console.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\System.IO.Compression.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\System.IO.Pipes.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\System.Security.Claims.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\System.ValueTuple.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\System.Xml.XPath.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\vbc.exe
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\vbc.exe.config
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\vbc.rsp
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\VBCSCompiler.exe
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\ClosedXML.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\DocumentFormat.OpenXml.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\ExcelNumberFormat.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\MySql.Data.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\System.IO.Packaging.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\ClosedXML.pdb
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\ClosedXML.xml
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\DocumentFormat.OpenXml.xml
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\ExcelNumberFormat.xml
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\MySql.Data.xml
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\obj\Debug\QRAttendance.csproj.CopyComplete
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\obj\Debug\QRAttendance.dll
+C:\Users\llhoy\source\repos\QRAttendance\QRAttendance\obj\Debug\QRAttendance.pdb
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\QRAttendance.dll.config
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\QRAttendance.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\QRAttendance.pdb
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\csc.exe
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\csc.exe.config
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\csc.rsp
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\csi.exe
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\csi.exe.config
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\csi.rsp
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\System.AppContext.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\System.Console.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\System.IO.Compression.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\System.IO.Pipes.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\System.Security.Claims.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\System.ValueTuple.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\System.Xml.XPath.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\vbc.exe
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\vbc.exe.config
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\vbc.rsp
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\VBCSCompiler.exe
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\ClosedXML.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\DocumentFormat.OpenXml.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\ExcelNumberFormat.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\MySql.Data.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\System.IO.Packaging.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\ClosedXML.pdb
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\ClosedXML.xml
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\DocumentFormat.OpenXml.xml
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\ExcelNumberFormat.xml
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\MySql.Data.xml
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\obj\Debug\QRAttendance.csprojAssemblyReference.cache
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\obj\Debug\QRAttendance.csproj.CoreCompileInputs.cache
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\obj\Debug\QRAttendance.csproj.CopyComplete
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\obj\Debug\QRAttendance.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\obj\Debug\QRAttendance.pdb
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\QRCoder.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\Newtonsoft.Json.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\Newtonsoft.JsonResult.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\System.Web.Helpers.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\System.Web.Mvc.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\System.Web.Razor.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\System.Web.WebPages.Deployment.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\System.Web.WebPages.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\System.Web.WebPages.Razor.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\Newtonsoft.Json.xml
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\System.Web.Helpers.xml
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\System.Web.Mvc.xml
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\System.Web.Razor.xml
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\System.Web.WebPages.xml
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\System.Web.WebPages.Deployment.xml
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\QRAttendance.dll.config
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\QRAttendance.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\QRAttendance.pdb
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\csc.exe
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\csi.exe
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\System.Security.Claims.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\ClosedXML.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\DocumentFormat.OpenXml.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\ExcelNumberFormat.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\MySql.Data.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\Newtonsoft.JsonResult.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\QRCoder.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\System.IO.Packaging.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\ClosedXML.pdb
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\ClosedXML.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\DocumentFormat.OpenXml.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\ExcelNumberFormat.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\MySql.Data.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\obj\Debug\QRAttendance.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\obj\Debug\QRAttendance.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\obj\Debug\QRAttendance.csproj.CopyComplete
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\obj\Debug\QRAttendance.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\QRAttendance\obj\Debug\QRAttendance.pdb
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\QRAttendance.dll.config
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\QRAttendance.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\QRAttendance.pdb
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\csc.exe
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\csi.exe
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\System.Security.Claims.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\ClosedXML.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\DocumentFormat.OpenXml.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\ExcelNumberFormat.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\MySql.Data.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\Newtonsoft.JsonResult.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\QRCoder.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\System.IO.Packaging.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\ClosedXML.pdb
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\ClosedXML.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\DocumentFormat.OpenXml.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\ExcelNumberFormat.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\MySql.Data.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\obj\Debug\QRAttendance.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\obj\Debug\QRAttendance.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\obj\Debug\QRAttendance.csproj.CopyComplete
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\obj\Debug\QRAttendance.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance (Added Login Reference)\QRAttendance\obj\Debug\QRAttendance.pdb
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\Microsoft.Owin.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\Microsoft.Owin.Security.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\Owin.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\Owin.Security.AesDataProtectorProvider.dll
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\Microsoft.Owin.xml
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\Microsoft.Owin.Security.xml
+C:\Users\llhoy\Desktop\QRAttendance\QRAttendance\bin\Owin.Security.AesDataProtectorProvider.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\QRAttendance.dll.config
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\QRAttendance.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\QRAttendance.pdb
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\csc.exe
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\csi.exe
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\System.Security.Claims.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\ClosedXML.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\DocumentFormat.OpenXml.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\ExcelNumberFormat.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\MySql.Data.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\Newtonsoft.JsonResult.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\Owin.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\Owin.Security.AesDataProtectorProvider.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\QRCoder.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\System.IO.Packaging.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\ClosedXML.pdb
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\ClosedXML.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\DocumentFormat.OpenXml.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\ExcelNumberFormat.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\MySql.Data.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\Owin.Security.AesDataProtectorProvider.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\obj\Debug\QRAttendance.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\obj\Debug\QRAttendance.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\obj\Debug\QRAttendance.csproj.CopyComplete
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\obj\Debug\QRAttendance.dll
+C:\Users\user\Desktop\LongHao(Staff)\QRAttendance\QRAttendance\obj\Debug\QRAttendance.pdb
